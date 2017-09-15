@@ -5,4 +5,7 @@ FEMA <a href="https://data.femadata.com/NationalDisasters/HurricaneHarvey/Data/D
 
 HCAD <a href="http://pdata.hcad.org/download/index.html">data</a> (Houston County Appraisal District) is 2017 data. The merged dataset is limited to only properties flagged by FEMA. 
 
-The merge file is called: 
+The merge file is called: Harvey_FEMA_HCAD_Damage.json.zip
+
+# NOTE: PLEASE DO NOT UNZIP LARGE FILES AND LEAVE IT IN PLACE AND TRY TO PUSH BACK TO ORIGIN
+# Many of these files are too big for github (>100mb) that is why they are zipped. 
