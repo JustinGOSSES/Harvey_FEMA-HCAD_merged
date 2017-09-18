@@ -9,3 +9,6 @@ A dataset that combines FEMA modeled flood damage and Harris County Appraisal Di
 
 # NOTE: PLEASE DO NOT UNZIP LARGE FILES AND LEAVE IT IN PLACE AND TRY TO PUSH BACK TO ORIGIN
 # Many of these files are too big for github (>100mb) that is why they are zipped. 
+
+Harvey_FEMA_HCAD_Damage_reduced_ws.geojson = same as above but merged in watersheds as attribute
+
