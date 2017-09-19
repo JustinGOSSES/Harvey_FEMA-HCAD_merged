@@ -26,6 +26,6 @@ D. Harris County <a href="http://data.houstontx.gov/en/dataset/harris-county-wat
 5. *Harvey_FEMA_HCAD_Damage_reduced_ws.geojson.zip* is the same as (2), but it adds a column for which watershed each property is within. This was done via a spatial join in <a href="/notebooks/HCAD-FEMAdamage-Watersheds.ipynb"> this notebook</a>.  
 
 
-# NOTE: PLEASE DO NOT UNZIP LARGE FILES AND LEAVE IT IN PLACE AND TRY TO PUSH BACK TO ORIGIN
-# Many of these files are too big for github (>100mb) that is why they are zipped. Move unzipped files to the folder named, big_data_leave, which should be put in a .gitignore file. 
+### NOTE: PLEASE DO NOT UNZIP LARGE FILES AND LEAVE IT IN PLACE AND TRY TO PUSH BACK TO ORIGIN. It will gum up your git.
+#### Many of these files are too big for github (>100mb) that is why they are zipped. I move unzipped files to a folder named, 'big_data_leave', which I think put in .gitignore file. 
 
